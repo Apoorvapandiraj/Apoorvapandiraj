@@ -1,12 +1,11 @@
 <!-- 🎯 Animated Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hitesh+Krishan+Sharma;💻+Tech+Lover+%7C+BCA+Graduate+%7C+Full+Stack+Learner;✨+Keep+Building+%7C+Keep+Growing!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Apoorva+Pandiraj;💻+Tech+Enthusiast+%7C+BCA+Graduate+%7C+Full+Stack+Developer;✨+Keep+Building+%7C+Keep+Improving!" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&pause=1000&color=00FEEF&center=true&vCenter=true&width=900&lines=+Hitesh+Krishan+Sharma" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&pause=1000&color=00FEEF&center=true&vCenter=true&width=900&lines=Apoorva+Pandiraj" alt="Typing SVG">
 </p>
-
 
 
 
