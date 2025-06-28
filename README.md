@@ -12,23 +12,21 @@
 
 
 
-
 <!-- 🧠 Profile Summary -->
 <table align="center" width="90%">
   <tr>
     <td align="center" style="font-size: 16px; font-family: 'Segoe UI', sans-serif; color: #e0f7fa; line-height: 1.8;">
       <p>🎓 <strong style="color:#FFD700;">BCA Graduate</strong> from <i>SJES College of Management Studies</i></p>
-      <p>💼 <strong style="color:#90CAF9;">Computer Lab In-Charge</strong></p>
-      <p>🌐 Passionate about <strong style="color:#00E676;">Web Development</strong>, <strong>Automation</strong>, and <strong>Tech Tools</strong></p>
-      <p>🧠 Believer in <strong style="color:#FF8A65;">Lifelong Learning</strong> & Crafting <strong>Smart Solutions</strong></p>
-      <p>🌱 Currently exploring <strong style="color:#80D8FF;">React.js</strong>, <strong>Node.js</strong>, and <strong>Full Stack Development</strong></p>
+      <p>💼 <strong style="color:#90CAF9;">Former Technical Engineer at Petpooja</strong></p>
+      <p>🌐 Passionate about <strong style="color:#00E676;">Full Stack Web Development</strong>, <strong>Automation</strong>, and <strong>Smart Tech Solutions</strong></p>
+      <p>🧠 Lifelong Learner focused on crafting <strong style="color:#FF8A65;">Efficient & Scalable Applications</strong></p>
+      <p>🌱 Currently exploring <strong style="color:#80D8FF;">React.js</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>AWS Deployment</strong></p>
       <p>📍 Based in <strong style="color:#FF5252;">Bangalore, India</strong></p>
-      <p>🤝 Open for <strong style="color:#BA68C8;">Collaboration</strong>, <strong>Freelance Work</strong>, and <strong>Tech Talks</strong></p>
+      <p>👋 I'm <strong style="color:#FFD54F;">Apoorva Pandiraj</strong> — driven by curiosity and code</p>
+      <p>🤝 Open for <strong style="color:#BA68C8;">Collaboration</strong>, <strong>Freelance Projects</strong>, and <strong>Tech Talks</strong></p>
     </td>
   </tr>
 </table>
-
-
 
 
 
